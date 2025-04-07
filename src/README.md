@@ -1,6 +1,6 @@
 # Projeto React com Vite + TypeScript 🚀
 
-Olá! 👋
+Olá 👋
 
 Este repositório foi criado para armazenar o projeto desenvolvido durante o módulo de React do programa Explorer da Rocketseat.
 
